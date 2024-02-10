@@ -1,0 +1,89 @@
+.main-container {
+  width: 30%;
+  border: 3px solid black;
+  padding: 10px;
+  text-align: justify;
+
+  .dailyValueHeader {
+    margin: 0px;
+    font-size: 1.3rem;
+    font-weight: 800;
+    text-align: end;
+    margin-bottom: 7px;
+  }
+
+  .other-hr{
+    border: 0.5rem solid black;
+  }
+
+  .table-hr {
+    border: 0.25rem solid black;
+  }
+
+  .nutrition-header {
+    .header {
+      font-size: 3.5rem;
+      margin: 0px;
+      font-weight: 900;
+    }
+
+    .title-desc {
+      font-size: 1.4rem;
+      margin: 0px;
+      font-weight: 800;
+      line-height: 35px;
+    }
+
+    .sub-title {
+      font-size: 1.4rem;
+      font-weight: 500;
+    }
+
+    .servings-hr {
+      border: 0.5rem solid black;
+    }
+  }
+
+  .calories-header {
+    .serving-amount {
+      font-size: 1.3rem;
+      font-weight: 800;
+      margin: 0px;
+    }
+
+    .calories-title {
+      font-size: 3rem;
+      font-weight: 900;
+      margin: 0px;
+    }
+
+    .calories-hr {
+      border: 0.25rem solid black;
+    }
+  }
+
+  .nutrient-info:first-child {
+    border-top: none !important;
+    line-height: 1.5rem;
+    .nutrient-title {
+      font-size: 1.2rem;
+      font-weight: 900;
+    }
+  }
+
+  .nutrient-info {
+    border-top: 1px solid black;
+    line-height: 1.5rem;
+    .nutrient-title {
+      font-size: 1.2rem;
+      font-weight: 900;
+    }
+  }
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
