@@ -6,7 +6,7 @@ const NUTRIENT_TITLE_MAPPINGS = {
   total_carbohydrate: "Total Carbohydrate",
   dietary_fiber: "Dietary Fiber",
   total_sugars: "Total Sugars",
-  added_sugars: "Includes {value} Added Sugars",
+  added_sugars: "Added Sugars",
   protein: "Protein",
   cholesterol: "Cholestrol",
   sodium: "Sodium",
