@@ -9,4 +9,4 @@
 
 ## Screenshot
 
-  <img width="487" alt="Screenshot 2024-02-09 at 4 45 25 PM" src="https://github.com/adwaitmore700/nutrition-chart-react/assets/39245142/6997c812-70c2-480e-89fe-bb4c4f004521">
+  <img width="499" alt="Screenshot 2024-02-09 at 10 03 07 PM" src="https://github.com/adwaitmore700/nutrition-chart-react/assets/39245142/e441d25c-be3e-491f-a59a-55c5ab55b252">
